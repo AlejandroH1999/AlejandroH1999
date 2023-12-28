@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 , me llamo Jonathan Alejandro Hernandez Perez</h1><h3 align="center">Soy un ingeniero en software apasionado</h3>- Pregúntame sobre **html,css y javascript**- 💬 Cómo contactarme **alejandrohp1999@gmail.com**
+<h1 align="center">Hola 👋 , me llamo Jonathan Alejandro Hernandez Perez</h1><h3 align="center">Soy un desarrollador de software apasionado</h3>- Pregúntame sobre **html,css y javascript**- 💬 Cómo contactarme **alejandrohp1999@gmail.com**
 
 📫
 
